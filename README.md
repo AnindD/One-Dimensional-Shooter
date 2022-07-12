@@ -1,4 +1,4 @@
-#One Dimensional Shooter Simulator 
+# One Dimensional Shooter Simulator 
 **Project Summary:** Shooter game where the player is only allowed to shoot in a one dimensional manner. There are there levels: 
 - 1 versus 1, where two players using different keys on the keyboards face each other and attempt to deplete each others health as fast as posssible 
 - Survival, where one player acts as the killer who can instantly kill the other. The other (blue) player must survive for 60 seconds to win. 
