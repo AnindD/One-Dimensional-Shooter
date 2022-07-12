@@ -17,6 +17,8 @@ Pygame library documentation along with YouTube.
 
 # Snapshots
 ![Screenshot](https://raw.githubusercontent.com/AnindD/One-Dimensional-Shooter/main/Sample%20Images/One_Dim_Sample_1.png)
+![Screenshot2](https://raw.githubusercontent.com/AnindD/One-Dimensional-Shooter/main/Sample%20Images/One_Dim_Sample_2.png)
+![Screenshot3](https://raw.githubusercontent.com/AnindD/One-Dimensional-Shooter/main/Sample%20Images/One_Dim_Sample_4.png)
 
 
 # Authors
